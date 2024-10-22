@@ -1,5 +1,5 @@
 import React from 'react';
-import imag from '../../public/images/DALL·E-2024-03-28-13.07.17-Create-an-image-that-visualizes-the-concept-of-augmented-reality-in-education-showcasing-diverse-students-engaging-with-interactive-digital-elements-1024x675.webp';
+import imag from '../../public/images/math.jpg';
 
 function AboutUs() {
   return (

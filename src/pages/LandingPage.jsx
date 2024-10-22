@@ -1,11 +1,11 @@
 import React from "react";
 import { motion } from "framer-motion";
-import img from "../../public/images/girl-learning-home-laptop-reading-study-elearning-desk-with-blurred-background-african-female-child-student-computer-with-tech-web-app-home-school-class-studying_590464-120659.avif";
-import img2 from "../../public/images/teenager-doing-school-work-on-260nw-2308726333.webp";
-import img3 from "../../public/images/teacher-working-online-on-laptop-260nw-2329976655.webp";
+import img from "../../public/images/math.jpg";
+import img2 from "../../public/images/math.jpg";
+import img3 from "../../public/images/math.jpg";
 import Footer from "../components/Footer";
 import NavBar from "../components/NavBar";
-import imag from "../../public/images/DALL·E-2024-03-28-13.07.17-Create-an-image-that-visualizes-the-concept-of-augmented-reality-in-education-showcasing-diverse-students-engaging-with-interactive-digital-elements-1024x675.webp";
+import imag from "../../public/images/studenntssssssssssss.webp";
 import AboutUs from "../components/AboutUs";
 import Pricing from "../components/Pricing";
 import { MdEmail } from "react-icons/md";

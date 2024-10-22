@@ -1,7 +1,7 @@
 import React from "react";
 import { FaFacebookF, FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 import { Element } from "react-scroll";
-import logo from "../../public/images/WhatsApp_Image_2024-10-15_at_22.02.25_e2ae8a9e.png";
+import logo from "../../public/images/studenttttt.png";
 
 const Footer = () => {
   return (

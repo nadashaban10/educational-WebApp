@@ -4,8 +4,8 @@ import { GrSchedule } from "react-icons/gr";
 import { FaUserDoctor } from "react-icons/fa6";
 import { RiMedicineBottleLine } from "react-icons/ri";
 import { IoMdNotificationsOutline, IoMdMail } from "react-icons/io";
-import logo from "../../public/images/WhatsApp_Image_2024-10-15_at_22.02.25_e2ae8a9e.png";
-import img from "./../../public/images/istockphoto-1300845620-612x612.jpg";
+import logo from "../../public/images/IMG_2014.jpeg";
+import img from "./../../public/images/math.jpg";
 import { CiMenuBurger } from "react-icons/ci";
 
 function Portfolio() {

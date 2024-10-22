@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from "../../public/images/WhatsApp_Image_2024-10-15_at_22.02.25_e2ae8a9e.png";
+import logo from "../../public/images/students.avif";
 import { CiMenuBurger } from "react-icons/ci";
 import { useNavigate } from "react-router-dom";
 import { Link as ScrollLink } from "react-scroll";
@@ -32,7 +32,6 @@ function NavBar() {
           <p>support@gmail.com</p>
           <div className='bg-black h-[20px] w-[1px] ml-5' ></div>
           <FaPhoneVolume className="mr-2 ml-4" />
-          
           <p>+234 123 456 7890</p>
         </div>
         <div className="flex flex-row items-center">
