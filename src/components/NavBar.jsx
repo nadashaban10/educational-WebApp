@@ -65,10 +65,10 @@ function NavBar() {
         </div>
         <div className={`nav-right  space-x-4 text-lg flex flex-col md:flex-row items-start md:items-center space-y-4 md:space-y-0 md:space-x-8 font-poppins ${isNavVisible ? 'fixed top-0 left-0 w-full md:w-[1000px] bg-[#366cff] h-screen md:h-[300px] justify-start items-start text-white space-x-8 space-y-6 z-50 p-5' : 'hidden'} md:flex`}>
           <button className="nav-button bg-white text-gray-600 rounded-full font-bold w-[50px] h-[45px] absolute top-5 right-5 md:hidden" onClick={toggleNav}> X </button>
-          <ScrollLink to="home" smooth={true} duration={500} className="nav-item cursor-pointer relative">
+          <a href="/"  className="nav-item cursor-pointer relative">
             Home
             <div className="underline absolute bottom-0 left-0 w-0 h-[2px] bg-blue-500 transition-all duration-300"></div>
-          </ScrollLink>
+          </a>
           <a href="/courses" className="nav-item cursor-pointer relative">
             Courses
             <div className="underline absolute bottom-0 left-0 w-0 h-[2px] bg-blue-500 transition-all duration-300"></div>
